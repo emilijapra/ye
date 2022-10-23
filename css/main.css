@@ -1,0 +1,105 @@
+main {
+    background-color: #c0c0c0;
+    width: 400px;
+    height: 470px
+    padding: 5px;
+    
+     }
+
+     h1 {
+        background-color: #dfdfdf;
+        padding: 10px;
+        color: #6464645a;
+        margin: 20px
+        
+    }
+
+    #apacia{
+        padding: 20px
+        }
+
+    div {
+        padding: 2px;
+        color: white;
+    }
+
+    #nulis{
+        padding-left: 10px;
+        background-color: #fc068d;
+    }
+
+    #vienas{
+        padding-left: 10px;
+        background-color: #f935a1;
+    }
+
+    #du{
+        padding-left: 10px;
+        background-color: #f746a7;
+    }
+
+    #trys{
+        padding-left: 10px;
+        background-color: #f85cb2;
+    }
+
+    #keturi{
+        padding-left: 10px;
+        background-color: #f763b4;
+    }
+
+    #penki{
+        padding-left: 10px;
+        background-color: #fb76bf;
+    }
+
+    #sesi{
+        padding-left: 10px;
+        background-color: #fb98ce;
+    }
+
+    #septyni{
+        padding-left: 10px;
+        background-color: #05d879;
+    }
+
+    #astuoni{
+        padding-left: 10px;
+        background-color: #8bdcfa;
+    }
+
+    #devyni{
+        padding-left: 10px;
+        background-color: #69d4fb;
+    }
+
+    #desimt{
+        padding-left: 10px;
+        background-color: #58cefa;
+    }
+
+    #vienuolika{
+        padding-left: 10px;
+        background-color: #3dc8fb;
+    }
+
+    #dvylika{
+        padding-left: 10px;
+        background-color: #28c1f9;
+    }
+
+    #trylika{
+        padding-left: 10px;
+        background-color: #14bdfa;
+    }
+
+    #keturiolika{
+        padding-left: 10px;
+        background-color: #00b6f8;
+    }
+
+
+
+    
+    
+
